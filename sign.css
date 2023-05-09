@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    background-color: rgba(181, 233, 233, 0.74);
+}
+h1{
+    margin: 1.5rem;
+    color: brown;
+}
+form{
+    align-items: center;
+    margin-top: 0rem;
+    width: 30rem;
+    height: 36rem;
+    color:rgba(12, 16, 231, 0.959);
+    background-color: rgba(122, 198, 212, 0.815);
+    font-size: 1.3rem;
+    list-style-type: none;
+    margin-left: 22em;
+    /* display: none; */
+}
+h3{
+    margin: 0rem;
+    margin-top: 0rem;
+    text-align: left;
+    /* margin-bottom: 2rem; */
+}
+input{
+    /* margin: 0rem; */
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    width: 25rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.219);
+    color:rgba(15, 15, 15, 0.863);
+}
+input:focus{
+    outline: none;
+}
+.password-class{
+    margin: 0rem;
+    margin-top: 0rem;
+    margin-left: -1rem;
+    text-align: left;
+    font-size: 1.5rem;
+}
+section{
+    width: 14rem;
+    margin-left: 2.5rem;
+}   
+button{
+    font-size: 2rem;
+    border-radius: 15px;
+    border-color: coral;
+    background-color: coral;
+    color: blue;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+h5{
+    margin-top: 0.3rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+a{
+    color: green;
+}
+p{
+    font-size: 1.2rem;
+    margin-top: -1rem;
+    margin-bottom: 0.5rem;
+    margin-left: -3rem;
+    display: inline-block;
+    /* padding: 5px 20px; */
+    color: white;
+    
+}
